@@ -1,1 +1,3 @@
 3rd file
+
+A new line has been added from nano editor
